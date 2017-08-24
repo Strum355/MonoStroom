@@ -8,7 +8,7 @@ Introduces a rounded lowercase L without the bottom serif, as well as a straight
 Example comparisons coming soon
 
 ## Download
-[Please download the font at here](https://github.com/Strum355/MonoStroom/releases)
+[Please download the font here](https://github.com/Strum355/MonoStroom/releases)
 
 ## Screenshots and Examples
 ![Example screenshot](https://noahsc.xyz/MonoStroom.png)
