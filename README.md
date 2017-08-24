@@ -13,3 +13,5 @@ Example comparisons coming soon
 ## Screenshots and Examples
 ![Example screenshot](https://noahsc.xyz/MonoStroom.png)
 
+## Planned
+1. Thicken M, m, w and W
